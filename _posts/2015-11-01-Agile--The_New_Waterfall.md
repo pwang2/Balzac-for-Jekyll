@@ -3,7 +3,7 @@ layout: post
 title: "Agile is the new waterfall "
 category: articles
 author: ayasi architect developer cto @ June
-tags: [Agile]
+tags: [Agile,中文,译文]
 ---
 
 *译自https://medium.com/swlh/agile-is-the-new-waterfall-f7baef5d026d, 版权和内容所有权归原作者所有。*

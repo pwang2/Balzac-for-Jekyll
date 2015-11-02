@@ -3,7 +3,7 @@ layout: post
 title: "Agile is not now, nor was ever, Watererfall "
 category: articles
 author: Uncle Bob from 8thlight
-tags: [Agile]
+tags: [Agile,中文,译文]
 ---
 
 *译自http://blog.8thlight.com/uncle-bob/2015/10/16/agile-and-waterfall.html，所有版权和内容所有权归原作者所有*  
