@@ -1,7 +1,7 @@
 title:            Dig Down Deep
 tagline:          A beautiful theme.
 description:      Where I start to Log
-paginate:         3 
+paginate:         3
 paginate_path: "/page:num"
 
 comments: true
@@ -10,7 +10,7 @@ comments: true
 owner:
   name:           Peng Wang
   avatar:         avatar.png
-  bio:            "Asctic Coder"
+  bio:            "Coder"
   email:          pwang2@live.com
   github:         pwang2
   disqus:         pwang2-debug
@@ -40,7 +40,7 @@ kramdown:
   enable_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
@@ -54,3 +54,6 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 tag_page_layout: tag_page
 tag_page_dir: tag
+
+
+gems: [jekyll-paginate]
